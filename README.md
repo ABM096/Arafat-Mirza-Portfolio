@@ -1,96 +1,87 @@
-# 👋 Hi, I'm Arafat Baig Mirza  
-### Data Analyst | Business Analyst | Financial Analytics | Power BI | SQL | Excel
+# Hi, I'm Arafat Baig Mirza
 
-Welcome to my analytics portfolio!  
-This repository showcases a curated collection of real-world projects I have built across **Data Analytics, Business Analytics, and Financial Analytics**. Each project reflects my hands-on experience in data cleaning, modeling, visualization, business problem-solving, and insight generation.
+I’m a Data & Business Analyst with a strong interest in understanding how data shapes decisions.  
+I recently completed my Master’s in Business Analytics, and this portfolio highlights the projects I’ve built while developing my skills in data analysis, visualization, and problem-solving.
 
-I recently completed my **Master’s in Business Analytics**, and I am actively exploring opportunities in Data & Business Analytics roles. This portfolio demonstrates my analytical thinking, technical skills, and ability to translate data into meaningful recommendations.
+What motivates me most is taking a messy dataset, making sense of it, and turning it into something useful whether that’s a dashboard, a clear explanation, or a recommendation that can improve outcomes. Every project here reflects that mindset.
 
 ---
 
-## 🧠 **What You’ll Find in This Portfolio**
-This repository contains end-to-end projects, each with:
+## What this portfolio includes
 
-- Real datasets (public or business-style)
-- Data cleaning & preparation steps  
-- Power BI dashboards & KPIs  
-- SQL / DAX calculations  
-- Business insights & storytelling  
-- Recommendations based on analysis  
+This repository brings together the work I’ve done across **Data Analytics**, **Business Analysis**, and **Financial Analytics**.  
+Each project is built end-to-end and typically includes:
 
-Projects are organized into three major categories:
+- Real datasets  
+- Data cleaning and preparation  
+- Power BI dashboards and KPIs  
+- SQL or DAX calculations  
+- Clear insights and takeaways  
+- Practical recommendations  
 
-### 📊 **1. Data Analytics Projects**
-Dashboards and insights using real datasets with Power BI, SQL, and Excel.  
+I aim to make each project feel realistic and connected to how analytics is used in actual business environments.
+
+---
+
+## 📊 1. Data Analytics Projects
+
+These projects focus on uncovering trends, understanding customer behavior, and analyzing performance using Power BI, SQL, and Excel.
+
 Examples include:
 
-- **E-Commerce Sales & Customer Insights Dashboard**
-- Exploratory Data Analysis (EDA)
-- KPI reporting & operational insights
+- E-commerce sales and customer insights  
+- KPI dashboards  
+- Exploratory data analysis (EDA)  
+- Operational performance reviews  
 
-### 🧩 **2. Business Analysis Projects**
-These projects focus on:
-
-- Process improvement  
-- Requirements analysis  
-- AS-IS / TO-BE documentation  
-- KPI frameworks  
-- Case-study-style business solutions  
-
-### 💰 **3. Financial Analytics Projects**
-Includes:
-
-- Forecasting & scenario modeling  
-- Revenue analysis  
-- Cost breakdowns  
-- Financial dashboards  
+This is where I enjoy using data to answer high-impact business questions.
 
 ---
 
-## 🚀 **Featured Project**
-### **E-Commerce Sales & Customer Insights Dashboard (Power BI)**  
-An end-to-end analytics project using the Brazilian E-Commerce Public Dataset (Olist), featuring:
+## 🧩 2. Business Analysis Projects
 
-- Star schema modeling  
-- DAX-based KPI calculations  
-- Sales trends & customer insights  
-- Delivery performance analysis  
-- Review score correlation  
-- Actionable business recommendations  
+These projects focus on understanding and improving processes, identifying inefficiencies, and designing clearer workflows.
 
-🔗 **Project Folder:**  
-`/Data-Analytics-Projects/E-Commerce-Sales-Analysis`
+They include:
 
----
+- AS-IS and TO-BE process mapping  
+- Identifying bottlenecks  
+- Requirements gathering  
+- KPI framework development  
 
-## 🛠️ **Tools & Technologies**
-- **Power BI** (Data modeling, DAX, dashboards)  
-- **SQL** (Joins, aggregations, filtering, logic)  
-- **Excel** (Data cleaning, modeling, charts)  
-- **Power Query** (ETL & transformation)  
-- **Python — optional** (Pandas, EDA)  
-- **GitHub** (Version control & documentation)  
+These help connect the technical side of analytics to real business operations.
 
 ---
 
-## 🎓 **About Me**
-I’m Arafat Baig Mirza, a graduate in **Business Analytics** with strong interests in:
+## 💰 3. Financial Analytics Projects
 
-- Data Analysis  
-- Business Intelligence  
-- Operations & performance insights  
-- Financial modeling  
-- Solving problems using data  
+These projects highlight how data supports financial decision-making.
 
-I enjoy transforming messy datasets into clear dashboards, KPIs, and decision-focused insights.
+Examples include:
 
----
+- Forecasting and scenario planning  
+- Revenue and cost analysis  
+- Profitability dashboards  
+- Financial performance insights  
 
-## 📬 **Connect With Me**
-- **LinkedIn:** www.linkedin.com/in/arafat-mirza-736b18245  
-- **Email:** *your email here*  
-- **GitHub:** https://github.com/ABM096  
+This work strengthened my understanding of how financial metrics guide strategy.
 
 ---
 
-### ⭐ *Thank you for visiting my portfolio! Feel free to explore my projects, and reach out if you'd like to collaborate or discuss opportunities.*  
+## About Me
+
+I enjoy learning, experimenting, and building things that make data easier to understand.  
+With a background in Business Analytics and hands-on project experience, I’m currently exploring opportunities in:
+
+- Data Analytics  
+- Business Analytics  
+- Financial Analytics  
+- BI & Reporting roles  
+
+My goal is to contribute to teams that value data-driven thinking while continuing to grow as an analyst.
+
+---
+
+## Connect With Me
+
+- **Link**
